@@ -2,7 +2,7 @@ This program implement the Ricart-Agrawala algorithm for distributed mutual excl
 
 How to run this program:
 
-1. Put the two (Mutex_Client.jar, Mutex_Server.jar) files and four configuration TXT files (clients.txt, servers.txt, files, config.txt) in the same directory
+1. Put the two (Mutex_Client.jar, Mutex_Server.jar) files and four configuration TXT files (clients.txt, servers.txt, files.txt, config.txt) in the same directory
 2. Connect to 8 UTD lab machines. dc26 - dc28 for servers, dc21 - dc25 for clients.
 3. Run servers and clients:
 	-In dc26, run this line from configure: java -jar Mutex_Server.jar Server-01 servers.txt files.txt

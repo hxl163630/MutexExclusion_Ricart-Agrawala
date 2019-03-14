@@ -1,0 +1,5 @@
+Client-01 dc21.utdallas.edu 2580 1
+Client-02 dc22.utdallas.edu 2580 2
+Client-03 dc23.utdallas.edu 2580 5
+Client-04 dc24.utdallas.edu 2580 10
+Client-05 dc25.utdallas.edu 2580 20

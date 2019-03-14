@@ -1,0 +1,3 @@
+Server-01 dc26.utdallas.edu 2580 1
+Server-02 dc27.utdallas.edu 2580 2
+Server-03 dc28.utdallas.edu 2580 3

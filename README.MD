@@ -1,4 +1,5 @@
-"# MutexExclusion_Ricart-Agrawala" 
+MutexExclusion_Ricart-Agrawala
+
 This program implement the Ricart-Agrawala algorithm for distributed mutual exclusion with the optimization proposed by Roucairol and Carvalho, in a client-server model.
 
 How to run this program:
